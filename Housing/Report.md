@@ -29,7 +29,9 @@
 #### 2. Graphs
 - `Top 10 Brokers`
 ![Alt text](image-2.png)
-    - In the Figure above I found that `ANNE LOPA REAL ESTATE` is top in the list with the amount of `2147483647`, `COMPASS` with `1286402066`, `Douglas Elliman` with `1038405233` and so on.
+    - In the Figure above I found that `ANNE LOPA REAL ESTATE` is top in the list with the amount of `2147483647`.
+    - then `COMPASS` with `1286402066`.
+    - and `Douglas Elliman` with `1038405233` and so on.
 
 
 - `Top 10 Brokers on the basis of SUBLOCALITY`
