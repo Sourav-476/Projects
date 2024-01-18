@@ -64,6 +64,6 @@
 
 #### 4. `Prices of the Houses on the basis of Types`
 ![Alt text](image-8.png)
-    - `House for Sale` is Top on the list with the price of `3728426107`,
-    - then `Condo for sale` with the price of `2343962679`.
-    - then on third `Townhouse for sale	` with the price of `1903411440` and so on.
+- `House for Sale` is Top on the list with the price of `3728426107`.
+- then `Condo for sale` with the price of `2343962679`.
+- then on third `Townhouse for sale	` with the price of `1903411440` and so on.
