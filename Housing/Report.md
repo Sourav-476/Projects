@@ -24,7 +24,7 @@
 #### 1. Dataset
 - There are 4081 rows and 17 columns.
 - There are no Null values in our dataset.
-- To make the Brokers name readabel, I used the string function, and made a New Column with the Name of `Broker_Names`.
+- To make the Brokers name readable, I used the string function, and made a New Column with the Name of `Broker_Names`.
 
 #### 2. Graphs
 - `Top 10 Brokers`
